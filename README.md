@@ -23,7 +23,7 @@ Objek yang dirender adalah teks "NO1" dalam bentuk 3D dengan tiga warna berbeda:
 - **O** - Pink
 - **1** - Hijau terang
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1. **Clone atau download** repository ini
 2. **Buka file `index.html`** di browser modern yang mendukung WebGL (Chrome, Firefox, Edge, Safari)
