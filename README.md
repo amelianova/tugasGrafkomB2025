@@ -64,5 +64,5 @@ Objek yang dirender adalah teks "NO1" dalam bentuk 3D dengan tiga warna berbeda:
 
 ### Geometri
 - **Huruf N**: Terdiri dari 3 bagian (bar kiri, bar kanan, diagonal)
-- **Huruf O**: Ring berbentuk octagon dengan lubang di tengah
+- **Huruf O**: Ring berbentuk octagon 
 - **Angka 1**: Terdiri dari bar utama, serif atas, dan base bawah
