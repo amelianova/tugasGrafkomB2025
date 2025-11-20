@@ -6,6 +6,7 @@
 | 5025231041 | Amelia Nova Safitri |
 
 Proyek ini adalah implementasi rendering 3D menggunakan WebGL yang menampilkan objek teks "NO1" dengan pencahayaan dinamis dan kontrol interaktif.
+
 NO: "Nova"
 1: Digit terakhir NRP
 
