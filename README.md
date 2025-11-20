@@ -20,7 +20,7 @@ Aplikasi ini mendemonstrasikan berbagai konsep grafika komputer 3D, termasuk:
 
 Objek yang dirender adalah teks "NO1" dalam bentuk 3D dengan tiga warna berbeda:
 - **N** - Biru terang
-- **O** - Merah/Pink
+- **O** - Pink
 - **1** - Hijau terang
 
 ## 🚀 Cara Menjalankan
